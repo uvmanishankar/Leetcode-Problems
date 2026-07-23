@@ -25,7 +25,7 @@ class Solution {
                 right--;
             }
 
-            // Both are vowels, so swap
+            
             else {
                 char temp = v[left];
                 v[left] = v[right];
