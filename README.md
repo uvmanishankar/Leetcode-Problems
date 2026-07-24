@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1089-duplicate-zeros](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [1089-duplicate-zeros](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
 ## Binary Search
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 <!---LeetCode Topics End-->
