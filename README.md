@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
+| [2460-apply-operations-to-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [1089-duplicate-zeros](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
+| [2460-apply-operations-to-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0392-is-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
