@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [1089-duplicate-zeros](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
