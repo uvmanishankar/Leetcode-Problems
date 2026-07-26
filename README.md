@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1089-duplicate-zeros](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,5 +75,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 <!---LeetCode Topics End-->
