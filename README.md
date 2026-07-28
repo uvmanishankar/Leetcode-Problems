@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
