@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [1189-maximum-number-of-balloons](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1399-count-largest-group) |
