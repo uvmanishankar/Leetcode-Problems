@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1089-duplicate-zeros](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [1189-maximum-number-of-balloons](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -155,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0455-assign-cookies) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
