@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2670-find-the-distinct-difference-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2670-find-the-distinct-difference-array) |
+| [2784-check-if-array-is-good](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2670-find-the-distinct-difference-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2716-minimize-string-length) |
+| [2784-check-if-array-is-good](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2784-check-if-array-is-good](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 ## Divide and Conquer
 |  |
 | ------- |
