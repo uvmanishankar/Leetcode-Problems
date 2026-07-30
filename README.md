@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## String Matching
 |  |
 | ------- |
