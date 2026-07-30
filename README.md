@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2716-minimize-string-length](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2716-minimize-string-length) |
 ## String Matching
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1399-count-largest-group) |
 | [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2670-find-the-distinct-difference-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2670-find-the-distinct-difference-array) |
+| [2716-minimize-string-length](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2716-minimize-string-length) |
 ## Math
 |  |
 | ------- |
