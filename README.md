@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
+| [0771-jewels-and-stones](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 ## String Matching
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0575-distribute-candies) |
+| [0771-jewels-and-stones](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
