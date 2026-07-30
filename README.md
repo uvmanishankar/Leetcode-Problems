@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
+| [2670-find-the-distinct-difference-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2670-find-the-distinct-difference-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1399-count-largest-group) |
 | [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2670-find-the-distinct-difference-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2670-find-the-distinct-difference-array) |
 ## Math
 |  |
 | ------- |
