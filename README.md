@@ -76,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0796-rotate-string) |
 ## Hash Table
 |  |
 | ------- |
