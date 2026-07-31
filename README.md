@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0819-most-common-word](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [1089-duplicate-zeros](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0383-ransom-note) |
+| [0819-most-common-word](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1399-count-largest-group) |
