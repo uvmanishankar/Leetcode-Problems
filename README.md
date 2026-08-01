@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1446-consecutive-characters](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1446-consecutive-characters) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2716-minimize-string-length) |
 ## String Matching
