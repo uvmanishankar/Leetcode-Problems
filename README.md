@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1470-shuffle-the-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2460-apply-operations-to-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
