@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0819-most-common-word](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0819-most-common-word) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
