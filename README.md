@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2460-apply-operations-to-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Simulation
 |  |
 | ------- |
