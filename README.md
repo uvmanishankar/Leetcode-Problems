@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2460-apply-operations-to-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1399-count-largest-group) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2670-find-the-distinct-difference-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2716-minimize-string-length) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2465-number-of-distinct-averages](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2784-check-if-array-is-good](https://github.com/uvmanishankar/Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 ## Divide and Conquer
